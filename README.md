@@ -42,3 +42,12 @@ Con Docker, el `Dockerfile` instala Chrome, Chromedriver y Chromium de Playwrigh
 
 - Los resultados (`*.xlsx`) y los logs no se suben al repositorio.
 - Proyecto de práctica de scraping. El script de Selenium es el más viejo y el de Playwright es el que conviene usar.
+
+## Créditos
+
+Bibliotecas de código abierto que usa (no están incluidas):
+[Selenium](https://www.selenium.dev), [Playwright](https://playwright.dev/python/), [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/), [pandas](https://pandas.pydata.org), [Loguru](https://github.com/Delgan/loguru) y [fake-useragent](https://github.com/fake-useragent/fake-useragent).
+
+## Licencia
+
+Código bajo [licencia MIT](LICENSE). © 2026 Nahuel Emiliano Diaz.
