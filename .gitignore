@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# resultados y logs generados
+*.xlsx
+*.csv
+*.log
+scraper*.log
+
+.env
+.env.*
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
